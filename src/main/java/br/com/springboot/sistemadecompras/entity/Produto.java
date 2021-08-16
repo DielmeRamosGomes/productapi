@@ -1,4 +1,4 @@
-package br.com.springboot.sistemadecompras.Entity;
+package br.com.springboot.sistemadecompras.entity;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
