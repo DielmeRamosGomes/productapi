@@ -28,4 +28,7 @@ public class Produto {
     @Column(nullable = false)
     private Double precoUnitario;
 
+    public static Produto listaTodosProdutos(Produto produto) {
+        return produto;
+    }
 }
